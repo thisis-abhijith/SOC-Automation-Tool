@@ -67,6 +67,14 @@
   <li><strong>Reporting and Analysis:</strong> Finally, automated reports are generated to provide insights into the incident, response actions taken, and overall SOC performance, helping to improve future security operations.</li>
   
 </ol>
+<h2>Project Working</h2>
+<p>Below you can find photos demonstrating the SOC Automation Tool in action:</p>
+<div>
+  <img src="https://github.com/thisis-abhijith/SOC-Automation-Tool/blob/main/Screenshot%202024-07-26%20141746.png?raw=true" alt="Wazuh Dashboard" style="width:100%;max-width:600px;">
+  <img src="photo2.jpg" alt="Working Photo 2" style="width:100%;max-width:600px;">
+  <img src="photo3.jpg" alt="Working Photo 3" style="width:100%;max-width:600px;">
+</div>
+
 
 <h2>Contact</h2>
 <p>For any questions or support, please open an issue on GitHub or contact us at <a href="thisisabhijithsoman@gmail">Abhijith Soman</a>.</p>
