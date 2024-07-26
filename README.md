@@ -71,7 +71,7 @@
 <p>Below you can find photos demonstrating the SOC Automation Tool in action:</p>
 <div>
   <img src="https://github.com/thisis-abhijith/SOC-Automation-Tool/blob/main/Screenshot%202024-07-26%20141746.png?raw=true" alt="Wazuh Dashboard" style="width:100%;max-width:600px;">
-  <img src="photo2.jpg" alt="Working Photo 2" style="width:100%;max-width:600px;">
+  <img src="https://github.com/thisis-abhijith/SOC-Automation-Tool/blob/main/Screenshot%202024-07-26%20134127.png" alt="Working Photo 2" style="width:100%;max-width:600px;">
   <img src="photo3.jpg" alt="Working Photo 3" style="width:100%;max-width:600px;">
 </div>
 
