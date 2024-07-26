@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SOC Automation Tool</title>
+
 </head>
 <body>
 
@@ -42,7 +42,7 @@
   <p>Set up TheHive for incident management. Refer to the <a href="https://thehive-project.org/documentation/">TheHive documentation</a> for configuration details.</p>
   
   <li><strong>Configure Shuffle:</strong></li>
-  <p>Set up Shuffle to automate your workflows. Refer to the <a href="https://docs.shuffle.dev/">Shuffle documentation</a> for detailed instructions.</p>
+  <p>Set up Shuffle to automate your workflows. Refer to the <a href="https://github.com/Shuffle/Shuffle/blob/main/.github/install-guide.md">Shuffle documentation</a> for detailed instructions.</p>
   
 </ol>
 
