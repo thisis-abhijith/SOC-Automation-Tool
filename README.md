@@ -1,10 +1,8 @@
 <!DOCTYPE html>
-
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 </head>
 <body>
 
@@ -56,31 +54,23 @@
   <p>Set up Shuffle to automate your workflows. Refer to the <a href="https://github.com/Shuffle/Shuffle/blob/main/.github/install-guide.md">Shuffle documentation</a> for detailed instructions.</p>
 </ol>
 
-<h2>Project Working</h2>
-<p>The SOC Automation Tool works through a series of interconnected steps to provide comprehensive security monitoring and response:</p>
-<ol>
-  <li><strong>Event Detection:</strong> Wazuh continuously monitors system logs and network traffic for security events and anomalies.</li>
-  <li><strong>Alert Generation:</strong> When Wazuh detects a potential security incident, it generates an alert and sends it to TheHive.</li>
-  <li><strong>Incident Management:</strong> TheHive receives the alert, creates a case, and facilitates collaboration among SOC analysts to investigate and respond to the incident.</li>
-  <li><strong>Automation with Shuffle:</strong> Shuffle automates the incident response workflow by integrating actions between Wazuh and TheHive. This can include triggering additional scans, updating case statuses, and notifying relevant personnel.</li>
-  <li><strong>Real-Time Monitoring and Alerts:</strong> Throughout the process, live monitoring and email alerts keep SOC admins informed of the incident's status and any critical updates.</li>
-  <li><strong>Reporting and Analysis:</strong> Finally, automated reports are generated to provide insights into the incident, response actions taken, and overall SOC performance, helping to improve future security operations.</li>
-  
-</ol>
+<h2>Required Software</h2>
+<ul>
+  <li><strong>Windows 10 ISO:</strong> Download the Windows 10 ISO from the <a href="https://www.microsoft.com/software-download/windows10">official Microsoft website</a>.</li>
+  <li><strong>VMware:</strong> Download VMware from the <a href="https://www.vmware.com/products/workstation-player.html">official VMware website</a>.</li>
+  <li><strong>Ubuntu 22.04 LTS:</strong> Download Ubuntu 22.04 LTS from the <a href="https://releases.ubuntu.com/22.04/">official Ubuntu website</a>.</li>
+</ul>
+
 <h2>Project Working</h2>
 <p>Below you can find photos demonstrating the SOC Automation Tool in action:</p>
 <div>
-  <img src="https://github.com/thisis-abhijith/SOC-Automation-Tool/blob/main/Screenshot%202024-07-26%20141746.png?raw=true" alt="Wazuh Dashboard" style="width:100%;max-width:600px;">
-  <img src="https://github.com/thisis-abhijith/SOC-Automation-Tool/blob/main/Screenshot%202024-07-26%20134127.png" alt="Working Photo 2" style="width:100%;max-width:600px;">
-  <img src="https://github.com/thisis-abhijith/SOC-Automation-Tool/blob/main/New%20Screen.png" alt="Working Photo 3" style="width:100%;max-width:600px;">
+  <img src="https://github.com/thisis-abhijith/SOC-Automation-Tool/blob/main/Wazuh-Dashboard.png" alt="Wazuh Dashboard" style="width:100%;max-width:600px;">
+  <img src="https://github.com/thisis-abhijith/SOC-Automation-Tool/blob/main/Shuffle%20SOAR%20Automation.png" alt="Working Photo 2" style="width:100%;max-width:600px;">
+  <img src="https://github.com/thisis-abhijith/SOC-Automation-Tool/blob/main/Mail%20Alert.png" alt="Working Photo 3" style="width:100%;max-width:600px;">
 </div>
 
-
 <h2>Contact</h2>
-<p>For any questions or support, please open an issue on GitHub or contact us at <a href="thisisabhijithsoman@gmail">Abhijith Soman</a>.</p>
-
-
+<p>For any questions or support, please open an issue on GitHub or contact us at <a href="mailto:thisisabhijithsoman@gmail.com">Abhijith Soman</a>.</p>
 
 </body>
 </html>
-
