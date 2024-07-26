@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+  <title>SOC Automation Tool</title>
 </head>
 <body>
 
@@ -31,10 +31,20 @@
   <li><strong>Reduced Manual Effort:</strong> Minimize manual intervention with automated processes and workflows.</li>
 </ul>
 
+<h2>Project Working</h2>
+<p>The SOC Automation Tool works through a series of interconnected steps to provide comprehensive security monitoring and response:</p>
+<ol>
+  <li><strong>Event Detection:</strong> Wazuh continuously monitors system logs and network traffic for security events and anomalies.</li>
+  <li><strong>Alert Generation:</strong> When Wazuh detects a potential security incident, it generates an alert and sends it to TheHive.</li>
+  <li><strong>Incident Management:</strong> TheHive receives the alert, creates a case, and facilitates collaboration among SOC analysts to investigate and respond to the incident.</li>
+  <li><strong>Automation with Shuffle:</strong> Shuffle automates the incident response workflow by integrating actions between Wazuh and TheHive. This can include triggering additional scans, updating case statuses, and notifying relevant personnel.</li>
+  <li><strong>Real-Time Monitoring and Alerts:</strong> Throughout the process, live monitoring and email alerts keep SOC admins informed of the incident's status and any critical updates.</li>
+  <li><strong>Reporting and Analysis:</strong> Finally, automated reports are generated to provide insights into the incident, response actions taken, and overall SOC performance, helping to improve future security operations.</li>
+</ol>
+
 <h2>Getting Started</h2>
 <p>To get started with the SOC Automation Tool, follow these steps:</p>
 <ol>
-  
   <li><strong>Configure Wazuh:</strong></li>
   <p>Set up Wazuh to start monitoring your environment. Refer to the <a href="https://documentation.wazuh.com/current/index.html">Wazuh documentation</a> for detailed instructions.</p>
   
@@ -43,7 +53,6 @@
   
   <li><strong>Configure Shuffle:</strong></li>
   <p>Set up Shuffle to automate your workflows. Refer to the <a href="https://github.com/Shuffle/Shuffle/blob/main/.github/install-guide.md">Shuffle documentation</a> for detailed instructions.</p>
-  
 </ol>
 
 <h2>Contributing</h2>
@@ -54,6 +63,17 @@
 
 <h2>Contact</h2>
 <p>For any questions or support, please open an issue on GitHub or contact us at <a href="mailto:youremail@example.com">youremail@example.com</a>.</p>
+
+<h2>Upload Photos</h2>
+<p>Below you can find photos demonstrating the SOC Automation Tool in action:</p>
+<div>
+  <img src="![image](https://github.com/user-attachments/assets/c9cc9c43-ea91-4166-91b7-60168fa62669)
+" alt="Working Photo 1" style="width:100%;max-width:600px;">
+  <img src="![Screenshot 2024-07-26 140318](https://github.com/user-attachments/assets/a14ee25e-516a-40ad-897c-6f2d12511464)
+" alt="Working Photo 2" style="width:100%;max-width:600px;">
+  <img src="![Screenshot 2024-07-26 134127](https://github.com/user-attachments/assets/515ca425-36ce-4518-b369-6b74143e246e)
+" alt="Working Photo 3" style="width:100%;max-width:600px;">
+</div>
 
 </body>
 </html>
